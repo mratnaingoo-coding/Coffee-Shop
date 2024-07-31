@@ -1,4 +1,4 @@
-# Coffee-Shop <img src='https://img.icons8.com/?size=100&id=7NRtBE0Y82aw&format=png&color=000000' alt= "coffee" width= '40px'; height = '40px'>
+# Coffee-Shop <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
 Coffee-Shop by using Express JS, Node JS for Backend &amp; React for Frontend
 
 ## For Coffee-Shop-API
