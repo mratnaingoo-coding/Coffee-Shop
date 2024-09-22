@@ -9,3 +9,5 @@ npm run start or npm start
 
 ## For Coffee-Shop-Client
 - Get item from Coffee-Shop-API
+- Get Coffee UI & backend data solved
+- 
