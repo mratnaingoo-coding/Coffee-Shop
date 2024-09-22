@@ -2,7 +2,7 @@ import coffeeboxs from '../data/coffeeboxs.data.js'
 
 const get = (coffeeId) => {
     const findItem = coffeeboxs.find((item) => 
-        item.id === coffeeId
+        (item.id === coffeeId)
     );
     return findItem;
 }

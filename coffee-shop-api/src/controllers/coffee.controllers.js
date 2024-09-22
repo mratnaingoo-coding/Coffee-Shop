@@ -42,10 +42,7 @@ const getCoffee = (req, res) => {
 
     if (item) {
         logger.info(`Coffee Id: ${id}.`);
-        return res.status(StatusCodes.OK).send({
-            status: Status.success,
-            item,
-        });
+        return res.status(StatusCodes.OK).send(item);
     }
    
     return res.status(StatusCodes.NOT_FOUND).send({

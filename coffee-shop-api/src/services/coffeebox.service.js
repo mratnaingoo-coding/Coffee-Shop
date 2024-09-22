@@ -1,7 +1,12 @@
 import coffeeDao from '../models/persistence/coffeebox.dao.js'
 
 const getAllCoffees = () => coffeeDao.getAll();
-
+/**
+ * Get a user from its ID.
+ * 
+ * @param { integer } itemId 
+ * @returns 
+ */
 const getCoffee = (itemId) => coffeeDao.get(itemId);
 
 const createCoffee = (item) => coffeeDao.create(item);
